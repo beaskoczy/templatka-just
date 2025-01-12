@@ -3,6 +3,8 @@ description: Just the Docs Exercise
 theme: just-the-docs
 color_scheme: dark
 
+_includes/nav_footer_custom.html
+
 url: https://beaskoczy.github.io/templatka-just
 
 aux_links:
