@@ -1,7 +1,8 @@
 ---
 title: Whisper readme
 layout: default
-nav_order: 5
+parent: Reference
+nav_order: 2
 ---
 
 # Whisper
