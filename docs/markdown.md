@@ -1,5 +1,5 @@
 ---
-title: Markdown demo
+title: Cozy gaming
 layout: default
 nav_order: 2
 ---
