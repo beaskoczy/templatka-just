@@ -10,15 +10,15 @@ Cozy gaming can be enjoyed on a variety of platforms, each offering unique benef
 
 ## Benefits of Portable Gaming
 
-**Mobility and Convenience:** Portable devices such as the Nintendo Switch and smartphones allow you to take your cozy games with you wherever you go.
-**Ease of Use:** Portable gaming devices are designed to be user-friendly, with intuitive interfaces and controls that make it easy for anyone to pick up and play. This accessibility is ideal for casual gamers who want to relax without having to navigate complex setups.
-**Quick Sessions:** The nature of portable gaming often encourages shorter play sessions, which is perfect for fitting in some quick relaxation during breaks or downtime. Many cozy games are designed with this in mind, offering bite-sized gameplay experiences that can be enjoyed in small increments.
+**Mobility and Convenience:** Portable devices such as the Nintendo Switch and smartphones allow you to take your cozy games with you wherever you go.  
+**Ease of Use:** Portable gaming devices are designed to be user-friendly, with intuitive interfaces and controls that make it easy for anyone to pick up and play. This accessibility is ideal for casual gamers who want to relax without having to navigate complex setups.  
+**Quick Sessions:** The nature of portable gaming often encourages shorter play sessions, which is perfect for fitting in some quick relaxation during breaks or downtime. Many cozy games are designed with this in mind, offering bite-sized gameplay experiences that can be enjoyed in small increments.  
 
 ## Benefits of PC Gaming
 
-**Performance and Graphics:** PCs typically offer superior performance and graphical capabilities compared to portable devices. This means you can enjoy cozy games with enhanced visuals, smoother gameplay, and higher resolutions, making the experience even more immersive.
+**Performance and Graphics:** PCs typically offer superior performance and graphical capabilities compared to portable devices. This means you can enjoy cozy games with enhanced visuals, smoother gameplay, and higher resolutions, making the experience even more immersive.  
 **Customization and Modding:** One of the significant advantages of PC gaming is the ability to customize and modify your games. This can include adding new content, improving graphics, or tweaking gameplay mechanics to suit your preferences. Many cozy games have active modding communities that provide a wealth of additional content.  
-**Versatility:** PCs are versatile platforms that support a wide range of gaming genres and styles. You can easily switch between different types of cozy games, from simple puzzles to more complex simulations, all from the same device. Additionally, PCs often support larger screens and more comfortable peripherals, enhancing your overall gaming experience.
+**Versatility:** PCs are versatile platforms that support a wide range of gaming genres and styles. You can easily switch between different types of cozy games, from simple puzzles to more complex simulations, all from the same device. Additionally, PCs often support larger screens and more comfortable peripherals, enhancing your overall gaming experience.  
 **Community and Social Features:** PCs offer robust online capabilities, making it easier to connect with other players, join online communities, and participate in multiplayer modes. This social aspect can add an extra layer of enjoyment to your cozy gaming sessions.
 
 ### Comparison Table: Portable vs. PC Gaming for Cozy Games
