@@ -1,3 +1,9 @@
+---
+title: Markdown demo
+layout: default
+nav_order: 2
+---
+
 # How to enjoy cozy games?
 
 Cozy gaming can be enjoyed on a variety of platforms, each offering unique benefits that cater to different preferences and lifestyles. Among the most popular platforms are portable devices (such as handheld consoles and mobile devices) and PC gaming. Both options provide distinct advantages that can enhance your cozy gaming experience.
