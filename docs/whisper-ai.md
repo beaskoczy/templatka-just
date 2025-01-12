@@ -1,3 +1,9 @@
+---
+title: Whisper readme
+layout: default
+nav_order: 5
+---
+
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
