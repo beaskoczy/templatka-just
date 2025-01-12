@@ -1,7 +1,8 @@
 ---
 title: Markdown test
 layout: default
-nav_order: 4
+parent: Reference
+nav_order: 1
 ---
 
 # MarkdownTest
